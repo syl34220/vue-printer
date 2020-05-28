@@ -11,6 +11,9 @@
 <script>
 import vPrint from 'syl-vue-printer'
 export default {
+    components:{
+      vPrint
+    },
     data(){
         return {
             print:false, // 

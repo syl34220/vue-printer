@@ -1,7 +1,7 @@
 {
     "name": "syl-vue-printer",
     "description": "VUE打印组件 支持自动分页",
-    "version": "1.0.0",
+    "version": "1.0.4",
     "main": "dist/index.min.js",
     "scripts": {
         "dev": "webpack-dev-server --mode development",
